@@ -5,9 +5,7 @@
 
 ## 🚀 | Technologies & Tools
 
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+ ![Discord Api](https://img.shields.io/badge/-Discord_Api-black?style=flat-square&logo=discord)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
