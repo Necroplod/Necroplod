@@ -1,7 +1,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-2/678632704874381334.png)
 
 ## 📚 | 𝗦𝘁𝗮𝘁𝘀
-![Статистика](https://github-readme-stats.vercel.app/api?username=Necroplod&hide=contribs,prs&theme=dark&locale=ru&custom_title=Статистика)
+![Статистика](https://github-readme-stats.vercel.app/api?username=Necroplod&hide=contribs,prs&theme=dark&locale=ru)
 
 ## 🚀 | Technologies & Tools
 
