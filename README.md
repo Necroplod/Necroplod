@@ -5,7 +5,7 @@
 
 ## 🚀 | Technologies & Tools
 
- ![Discord Api](https://img.shields.io/badge/-Discord_Api-black?style=flat-square&logo=discord)
+ ![Discord Api](https://img.shields.io/badge/-Discord_api-black?style=flat-square&logo=discord)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
