@@ -11,4 +11,5 @@
 
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
  ![PyCharm](https://img.shields.io/badge/-PyCharm-green?logo=PyCharm&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 
