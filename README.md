@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=585152&random=false&width=435&lines=%D0%95%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5....)](https://git.io/typing-svg)
+
 ## 🎲 | Discord
  ![Discord](https://discord.c99.nl/widget/theme-2/678632704874381334.png)
 
@@ -15,5 +17,6 @@
  ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=flat&logo=mongodb&logoColor=0ec942)
  
 
