@@ -3,7 +3,7 @@
 ## 🎲 | Discord
  ![Discord](https://discord.c99.nl/widget/theme-2/678632704874381334.png)
 
-## 📊 | 𝗦𝘁𝗮𝘁𝘀
+## 📊 | Stats
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=necroplod&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
 
 ## 🚀 | Technologies
