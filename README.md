@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=585152&random=false&width=435&lines=%D0%95%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=585152&random=false&width=435&lines=%D0%95%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5....;Shitpost+Entertainment)](https://git.io/typing-svg)
 
 ## 🎲 | Discord
  ![Discord](https://discord.c99.nl/widget/theme-4/730857619077464185.png)
