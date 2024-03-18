@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=585152&random=false&width=435&lines=%D0%95%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5%D0%B1%D0%B5....;Shitpost+Entertainment)](https://git.io/typing-svg)
 
 ## 🎲 | Discord
- ![Discord](https://discord.c99.nl/widget/theme-4/730857619077464185.png)
+ ![Discord](https://discord.c99.nl/widget/theme-4/678632704874381334.png)
 
 ## 📊 | Stats
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=necroplod&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
